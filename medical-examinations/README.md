@@ -1,4 +1,4 @@
-# Medical Exams Analysis
+# Medical examinations
 
 ### Assignment
 
